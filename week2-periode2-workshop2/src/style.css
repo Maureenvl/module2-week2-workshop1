@@ -9,7 +9,7 @@ h1 {
 		border-style: inset;
 	height: 69px;
 	color: black;
-	border
+	
 }
 
 h2 {
@@ -17,7 +17,7 @@ h2 {
 	color: black;
 	border-radius: 25px;
 	border-style: inset;
-	border-size:30px;
+	border:30px;
 	width: 350px;
 	height: 130px;
 	font-size: 60px;
