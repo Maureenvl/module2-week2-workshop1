@@ -1,0 +1,9 @@
+#container{
+    width: 935px;
+    margin:0 auto;
+}
+div{
+    border: 1px solid black;
+    margin-right: 10px;
+    padding:10px;
+}
