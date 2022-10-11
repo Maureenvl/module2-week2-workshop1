@@ -7,3 +7,23 @@ div{
     margin-right: 10px;
     padding:10px;
 }
+#header{
+    width: 890px;
+    height: 100px;
+}
+#sidebar{
+    width: 180px;
+    height:500px;
+    float: left;
+}
+#content{
+    width: 670px;
+    height: 500px;
+    float: left;
+}
+#footer{
+    width:893px;
+    height: 50px;
+    clear:left;
+
+}
